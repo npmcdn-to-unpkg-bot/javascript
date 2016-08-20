@@ -3,22 +3,20 @@ margin: 0 auto;
 background-color: lightyellow;
 text-align: center;
 }
-circle{
-  fill:white;
-  stroke:steelblue;  
-  stroke-width:2px;
-}
-line{
-  stroke:grey;
-  stroke-width:3px;
-}      
+   
 #website {
-width: 980px;
+width: 1200px;
 margin: 0 auto;
 }
 
+#dekolinks {
+float:left;
+width: 300px;
+height: auto;
+}
+
 #header {
-width: 980px;
+width: auto;
 background-color: #FF6347;
 height: 100px;
 -moz-border-radius: 50px;
@@ -37,8 +35,9 @@ margin: 0;
 #menue {
 float:left;
 background-color: #FFFACD;
-width:300px;
+width:200px;
 height: auto;
+margin-left: 20px;
 margin-top:10px;
 margin-bottom: 10px;
 }
@@ -70,7 +69,7 @@ margin-left: 5px;
 
 #fusszeile {
 background-color: #FFEC8B;
-width:980px;
+width:auto;
 height: auto;
 clear:both;
 margin-top:10px;
