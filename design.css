@@ -1,0 +1,78 @@
+body {
+margin: 0 auto;
+background-color: lightyellow;
+text-align: center;
+}
+circle{
+  fill:white;
+  stroke:steelblue;  
+  stroke-width:2px;
+}
+line{
+  stroke:grey;
+  stroke-width:3px;
+}      
+#website {
+width: 980px;
+margin: 0 auto;
+}
+
+#header {
+width: 980px;
+background-color: #FF6347;
+height: 100px;
+-moz-border-radius: 50px;
+-webkit-border-radius: 50px;
+-o-border-radius: 50px;
+border-radius: 50px;
+}
+
+#header h1{
+padding-top:50px;
+font-family: Ubuntu, sans-serif;
+color: black;
+margin: 0;
+}
+
+#menue {
+float:left;
+background-color: #FFFACD;
+width:300px;
+height: auto;
+margin-top:10px;
+margin-bottom: 10px;
+}
+
+#inhalt {
+float:right;
+background-color: #FFEC8B;
+width:680px;
+height: auto;
+margin-top:10px;
+margin-bottom: 10px;
+}
+
+#ueberschrift {
+padding-top:50px;
+font-family: Ubuntu, sans-serif;
+color: #8B6914;
+margin: 0;
+}
+
+#fliesstext {
+font-family: Ubuntu, sans-serif;
+color: #8B7E66;
+margin: 0;
+text-align: left;
+margin-left: 5px;
+    
+}
+
+#fusszeile {
+background-color: #FFEC8B;
+width:980px;
+height: auto;
+clear:both;
+margin-top:10px;
+margin-bottom: 10px;
+}
